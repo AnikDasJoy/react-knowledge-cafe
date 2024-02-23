@@ -1,0 +1,67 @@
+[
+    {
+        "id": "123456",
+        "cover": "https://i.ibb.co/z8W6Vj5/top-view-workspace-with-laptop-notebook.jpg",
+        "author": "Jane Doe",
+        "author_image": "https://i.ibb.co/GMdBBF2/austin-distel-w-D1-LRb9-Oe-Eo-unsplash.jpg",
+        "posted_date": "February 18, 2024",
+        "reading_time": "10 minutes",
+        "hashtags": [
+            "#fiction",
+            "#adventure",
+            "#mystery"
+        ]
+    },
+    {
+        "id": "789012",
+        "cover": "https://i.ibb.co/5BCp5gc/nasa-Q1p7bh3-SHj8-unsplash.jpg",
+        "author": "John Smith",
+        "author_image": "https://i.ibb.co/yFHXNb6/austin-distel-rxp-Th-Owu-Vg-E-unsplash.jpg",
+        "posted_date": "February 19, 2024",
+        "reading_time": "15 minutes",
+        "hashtags": [
+            "#sci-fi",
+            "#technology",
+            "#future"
+        ]
+    },
+    {
+        "id": "345678",
+        "cover": "https://i.ibb.co/bsqfbck/christopher-campbell-h9-Rx3z-OYZws-unsplash.jpg",
+        "author": "Emily Johnson",
+        "author_image": "https://i.ibb.co/5cdzFyG/austin-distel-t-LZh-FRLj6n-Y-unsplash.jpg",
+        "posted_date": "February 17, 2024",
+        "reading_time": "8 minutes",
+        "hashtags": [
+            "#romance",
+            "#love",
+            "#relationships"
+        ]
+    },
+    {
+        "id": "901234",
+        "cover": "https://i.ibb.co/C2m63QP/freestocks-Rg-Kmrxp-Ira-Y-unsplash.jpg",
+        "author": "Mark Anderson",
+        "author_image": "https://i.ibb.co/rZr69tc/austin-distel-Vv-Acr-Va56fc-unsplash.jpg",
+        "posted_date": "February 20, 2024",
+        "reading_time": "12 minutes",
+        "hashtags": [
+            "#thriller",
+            "#suspense",
+            "#crime"
+        ]
+    },
+    {
+        "id": "567890",
+        "cover": "https://i.ibb.co/xgRZrvn/miguel-bruna-Tz-VN0x-Qh-Wa-Q-unsplash.jpg",
+        "author": "Sarah Lee",
+        "author_image": "https://i.ibb.co/rZr69tc/austin-distel-Vv-Acr-Va56fc-unsplash.jpg",
+        "posted_date": "February 16, 2024",
+        "reading_time": "20 minutes",
+        "hashtags": [
+            "#fantasy",
+            "#magic",
+            "#adventure"
+        ]
+    }
+]
